@@ -1,0 +1,36 @@
+
+button{
+  margin-top: 20px;
+  background-color: #1d28ca;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  border: 2px solid #030101;
+}
+
+
+.textedit {
+  flex-direction: column;
+  padding: 30px;
+  border-spacing: 20px;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  justify-content: center;
+}
+
+body {
+  background-color: #11a9d840;
+  padding: 10px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
